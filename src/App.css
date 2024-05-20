@@ -1,0 +1,31 @@
+#root {
+  text-align: center;
+}
+
+
+
+input {
+  width: 80%;
+  
+}
+
+.kg-row {
+  margin:15px 5px;
+}
+.kg-button {
+  min-width:80px;
+  position: absolute;
+  right:400px;
+ 
+}
+
+
+
+
+
+
+
+
+
+
+
