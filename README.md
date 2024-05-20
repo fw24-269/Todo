@@ -1,5 +1,7 @@
 # React + Vite
 
+Welcome to the Todo List App project! This is a simple yet powerful to-do list application built using React.js. It helps you organize your tasks efficiently and keep track of what needs to be done.
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
